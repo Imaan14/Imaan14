@@ -1,4 +1,4 @@
-## 👋Hi, I'm Imaan!
+# 👋Hi, I'm Imaan!
 
 📜Student in 3rd year of Bachelor's<br/>
 👩‍🎓Studying Bcom Information Systems at the University of the Western Cape
