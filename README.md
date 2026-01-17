@@ -1,7 +1,8 @@
 # 👋Hi, I'm Imaan!
 
-📜Student in 3rd year of Bachelor's<br/>
-👩‍🎓Studying Bcom Information Systems at the University of the Western Cape
+👩‍🎓3rd Year student studying Bcom Information Systems at the University of the Western Cape<br/>
+🤠Currently working on data exploration using pandas<br/>
+🔧My main tech stack is python and pandas. My most used tools is notion and canva<br/>
 
 
 # 💻 Tech Stack
